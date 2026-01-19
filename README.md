@@ -1,6 +1,6 @@
 # Perlin Noise Implementation in C Language
 
-This is a C translation of the implementation of Perlin noise based on this article (https://adrianb.io/2014/08/09/perlinnoise.html).
+This is a C translation of the implementation of 2D Perlin noise based on this article (https://adrianb.io/2014/08/09/perlinnoise.html).
 
 ## Credits
 
